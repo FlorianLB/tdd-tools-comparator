@@ -1,0 +1,22 @@
+{
+    "name": "flub/tdd-tools-comparator",
+    "autoload": {
+        "psr-0": { "": "src/" }
+    },
+    "require": {
+        "phpunit/phpunit": "dev-master",
+        "atoum/atoum": "dev-master",
+        "phpspec/phpspec2": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "FlorianLB",
+            "email": "dev@florianlb.fr"
+        }
+    ],
+    "minimum-stability": "dev",
+    "config": {
+        "bin-dir": "bin"
+    }
+}
